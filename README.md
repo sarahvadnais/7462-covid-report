@@ -1,7 +1,7 @@
-Minnesota COVID Report
-================
+# Minnesota COVID Report
+Sarah Vadnais (edited)
 
-Report last run: 2023-04-06 22:07:43
+Report last run: 2024-03-05 16:38:44
 
 ## Introduction
 
