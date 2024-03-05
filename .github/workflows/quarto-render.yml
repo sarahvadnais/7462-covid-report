@@ -8,7 +8,7 @@ on: [workflow_dispatch]
 #    branches: main
 #  workflow_dispatch:
 
-name: Render Report
+name: Render Report 2
 
 jobs:
   build-deploy:
