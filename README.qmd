@@ -1,5 +1,6 @@
 ---
 title: "Minnesota COVID Report"
+author: "Sarah Vadnais (edited)"
 format: gfm
 execute: 
   eval: true
